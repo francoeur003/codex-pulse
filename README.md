@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="Sources/CodexPulse/Resources/pet-idle.png" width="300" alt="Codex Pulse 桌面宠物">
-</p>
-
-<h1 align="center">Codex Pulse</h1>
+# Codex Pulse
 
 <p align="center">
-  不用反复复制 Token，让一只 Codex 小宠物在桌面陪你看懂额度和每轮消耗。
+  <img src="docs/images/codex-pulse-hero.png" width="100%" alt="Codex Pulse 桌面宠物与用量监控功能总览">
 </p>
 
 <p align="center">
